@@ -2,7 +2,7 @@
 <package>
   <name>ros_mode_s</name>
   <version>0.0.0</version>
-  <description>The ros_mode_s package</description>
+  <description>The ros_dump1090 package</description>
   <maintainer email="eloipereira@gmail.com">Eloi Pereira</maintainer>
   <license>BSD</license>
   <author email="eloipereira@gmail.com">Eloi Pereira</author> 
